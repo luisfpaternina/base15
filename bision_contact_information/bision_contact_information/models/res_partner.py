@@ -10,5 +10,5 @@ class ResPartner(models.Model):
     # person_type = fields.Selection(
     #    selection=[('legal', 'Persona Juridica y Asimilada'), ('natural', 'Persona Natural y Asimilada')], string='Tipo de Persona')
 
-    # campo = fields.Char(string="Campito")
+    campo = fields.Char(string="Campito")
 # 
